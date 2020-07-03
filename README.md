@@ -1,2 +1,2 @@
-# project-chalkboard
-Previously hdsoftware-uk/edustrate. An education program enhancing learning. enquiries@edustrate.co.uk
+# EDUSTRATE
+More infomation coming soon. Check hdsoftware-uk/edustrate for more information.
